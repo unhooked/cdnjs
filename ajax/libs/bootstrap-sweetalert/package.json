@@ -20,5 +20,11 @@
     "files": [
       "sweet-alert*.+(js|css)"
     ]
-  }
+  },
+  "keywords": [
+    "sweetalert",
+    "alert",
+    "modal",
+    "popup"
+  ]
 }

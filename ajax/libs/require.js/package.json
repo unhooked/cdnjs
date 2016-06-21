@@ -19,11 +19,9 @@
       "require.js"
     ]
   },
-  "requiredFiles": [
-    "require.min.js"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jrburke/requirejs"
-  }
+  },
+  "license": "MIT"
 }

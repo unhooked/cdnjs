@@ -26,8 +26,5 @@
         "jquery.modal*.+(js|css|map)"
       ]
     }
-  ],
-  "requiredFiles": [
-    "jquery.modal.min.css"
   ]
 }
